@@ -1,4 +1,4 @@
-# 📐 Geometric Class Hierarchy OOP Project
+# 📐 Geometric Class Hierarchy C++ Implementation
 
 This C++ project was developed as part of an introductory Object-Oriented Programming (OOP) course during the first year studying CS @ Faculty of Mathematics and Computer Science, University of Bucharest. The project focuses on implementing a geometric class hierarchy, showcasing fundamental principles of object-oriented design.
 
